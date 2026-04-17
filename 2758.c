@@ -1,3 +1,12 @@
+/* --------------------------------------------------------------------------
+Disciplina  : Lógica de Programação, turma IB, 2026S1
+Nome        : Thiago Jun Kimura Takeda
+Linguagem   : C
+Problema    : https://judge.beecrowd.com/pt/problems/view/2758
+Data        : ??/04/2026
+Objetivo    : Imprimir quatro valores com diferentes números de casas deciamis
+Aprendizado : Funcionamento do comando printf e comandos associados a ele
+-------------------------------------------------------------------------- */
 #include <stdio.h>
  
 int main() {
