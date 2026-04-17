@@ -2,7 +2,7 @@
 Disciplina  : Lógica de Programação, turma IB, 2026S1
 Nome        : Thiago Jun Kimura Takeda
 Linguagem   : C
-Problema    : https://judge.beecrowd.com/pt/problems/view/1071
+Problema    : https://judge.beecrowd.com/pt/problems/view/1013
 Data        : ??/04/2026
 Objetivo    : Imprimir o maior de três números
 Aprendizado : Utilização do comando if
