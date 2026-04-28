@@ -22,21 +22,14 @@ int main()
                CA = CA + 26;
                lv = (char)CA;
                descrip[t]=lv;
-                   
            }
-           else{
-                   
+           else{      
                lv = (char)CA;
                descrip[t]=lv;
-               
-           }
-               
-                
+          }                
         }
      descrip[t] = '\0';
      printf("%s\n", descrip);
-    }
-    
-    
+   }
     return 0;
 }
