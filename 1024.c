@@ -6,7 +6,7 @@ int main()
     char m[1001];
     char cript1[1001];
     char cript2[1001];
-    int i=0, n=0, t=0, N=0, move1=0, crip1=0, j=0, crip2=0, move2 =0, tam=0, temp = 0;
+    int i=0, t=0, N=0, tam=0, temp = 0;
     scanf("%d", &N);
     getchar();
     for(t=0;t<N;t++){
