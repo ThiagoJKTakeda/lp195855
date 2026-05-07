@@ -4,8 +4,6 @@
 int main()
 {
     char m[1001];
-    char cript1[1001];
-    char cript2[1001];
     int i=0, t=0, N=0, tam=0, temp = 0;
     scanf("%d", &N);
     getchar();
@@ -20,13 +18,11 @@ int main()
             }
             
         }
-        i=0;
         for(i=0;i<tam/2; i++){
            temp = m[i];
            m[i]=m[tam-1-i];
            m[tam-1-i]=temp;
         }
-        i=0;
         for(i=(tam/2); i<tam; i++){
             m[i]=m[i]-1;
             
