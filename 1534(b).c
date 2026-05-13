@@ -5,7 +5,7 @@ Linguagem   : C
 Problema    : https://judge.beecrowd.com/pt/problems/view/1534
 Data        : 12/05/2026
 Objetivo    : Montar uma matriz de N por N
-Aprendizado : Aprender a trabalhar com ponteiros
+Aprendizado : Aprender a trabalhar com ponteiros.
 -------------------------------------------------------------------------- */
 
 #include <stdio.h>
