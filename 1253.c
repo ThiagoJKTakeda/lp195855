@@ -1,3 +1,13 @@
+/* --------------------------------------------------------------------------
+Disciplina  : Lógica de Programação, turma IB, 2026S1
+Nome        : Thiago Jun Kimura Takeda
+Linguagem   : C
+Problema    : https://judge.beecrowd.com/pt/problems/view/1253
+Data        : 25/04/2026
+Objetivo    : Decodificar uma sentença
+Aprendizado : Aprender a trabalhar com a tabela ASCII
+-------------------------------------------------------------------------- */
+
 #include <stdio.h>
 #include <string.h>
 #include <ctype.h>
