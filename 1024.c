@@ -1,3 +1,13 @@
+/* --------------------------------------------------------------------------
+Disciplina  : Lógica de Programação, turma IB, 2026S1
+Nome        : Thiago Jun Kimura Takeda
+Linguagem   : C
+Problema    : https://judge.beecrowd.com/pt/problems/view/1024
+Data        : 07/05/2026
+Objetivo    : Codificar uma mensagem
+Aprendizado : Aprender a mexer com string
+-------------------------------------------------------------------------- */
+
 #include <stdio.h>
 #include <string.h>
 #include <ctype.h>
