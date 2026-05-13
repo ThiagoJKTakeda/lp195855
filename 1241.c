@@ -1,3 +1,13 @@
+/* --------------------------------------------------------------------------
+Disciplina  : Lógica de Programação, turma IB, 2026S1
+Nome        : Thiago Jun Kimura Takeda
+Linguagem   : C
+Problema    : https://judge.beecrowd.com/pt/problems/view/1241
+Data        : 03/05/2026
+Objetivo    : Ver se um número B encaixa no final de um número A
+Aprendizado : Aprender a trbalhar com strings
+-------------------------------------------------------------------------- */
+
 #include <stdio.h>
 #include <string.h>
 
