@@ -1,3 +1,13 @@
+/* --------------------------------------------------------------------------
+Disciplina  : Lógica de Programação, turma IB, 2026S1
+Nome        : Thiago Jun Kimura Takeda
+Linguagem   : C
+Problema    : https://judge.beecrowd.com/pt/problems/view/1015
+Data        : 14/05/2026
+Objetivo    : Calcular a distancia entre dois ppontos 
+Aprendizado : Aprender a usar funções.
+-------------------------------------------------------------------------- */
+
 #include <stdio.h>
 #include <math.h>
 
