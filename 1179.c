@@ -1,3 +1,12 @@
+/* --------------------------------------------------------------------------
+Disciplina  : Lógica de Programação, turma IB, 2026S1
+Nome        : Thiago Jun Kimura Takeda
+Linguagem   : C
+Problema    : https://judge.beecrowd.com/pt/problems/view/1179
+Data        : 20/05/2026
+Objetivo    :Distribuir valores em dois vetores.
+Aprendizado : A trabalhar com vetores.
+-------------------------------------------------------------------------- */
 #include <stdio.h>
 
 int main()
