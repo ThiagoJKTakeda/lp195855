@@ -1,3 +1,12 @@
+/* --------------------------------------------------------------------------
+Disciplina  : Lógica de Programação, turma IB, 2026S1
+Nome        : Thiago Jun Kimura Takeda
+Linguagem   : C
+Problema    : https://judge.beecrowd.com/pt/problems/view/1168
+Data        : 20/05/2026
+Objetivo    :Contar quantos leds são necessários para mostrar um número.
+Aprendizado : A trabalhar com o comando switch.
+-------------------------------------------------------------------------- */
 #include <stdio.h>
 
 int main()
