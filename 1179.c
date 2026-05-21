@@ -37,11 +37,12 @@ int main()
        }
       
    }
+   for(j=0; j<quantimpar; j++){
+       printf("impar[%d] = %d\n", j, impar[j]);
+   }
    for(j=0; j<quantpar; j++){
        printf("par[%d] = %d\n", j, par[j]);
    }
-   for(j=0; j<quantimpar; j++){
-       printf("imapr[%d] = %d\n", j, impar[j]);
-   }
+  
     return 0;
 }
