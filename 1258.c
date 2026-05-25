@@ -1,3 +1,12 @@
+/* --------------------------------------------------------------------------
+Disciplina  : Lógica de Programação, turma IB, 2026S1
+Nome        : Thiago Jun Kimura Takeda
+Linguagem   : C
+Problema    : https://judge.beecrowd.com/pt/problems/view/1258
+Data        : 25/05/2026
+Objetivo    : Ordenar camisets por cor do simbolo e tamanho.
+Aprendizado : A trabalhar com struct.
+-------------------------------------------------------------------------- */
 #include <stdio.h>
 #include <string.h>
 
