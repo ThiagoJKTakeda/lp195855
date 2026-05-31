@@ -1,3 +1,13 @@
+/* --------------------------------------------------------------------------
+Disciplina  : Lógica de Programação, turma IB, 2026S1
+Nome        : Thiago Jun Kimura Takeda
+Linguagem   : C
+Problema    : https://judge.beecrowd.com/pt/problems/view/1029
+Data        : 30/05/2026
+Objetivo    : Calcular a série de fibonacci contando quantas chamadas recursivas foram feitas.
+Aprendizado : A trabalhar com funções recursivas e contar a quantidade de chamadas recursivas.
+-------------------------------------------------------------------------- */
+
 #include <stdio.h>
 
 int contador;
