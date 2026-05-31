@@ -2,7 +2,7 @@
 Disciplina  : Lógica de Programação, turma IB, 2026S1
 Nome        : Thiago Jun Kimura Takeda
 Linguagem   : C
-Problema    : https://judge.beecrowd.com/pt/problems/view/1534
+Problema    : https://judge.beecrowd.com/pt/problems/view/1028
 Data        : 30/05/2026
 Objetivo    : Calcular o mdc entre dois números.
 Aprendizado : A trabalhar com funções recursivas.
