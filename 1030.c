@@ -1,3 +1,12 @@
+/* --------------------------------------------------------------------------
+Disciplina  : Lógica de Programação, turma IB, 2026S1
+Nome        : Thiago Jun Kimura Takeda
+Linguagem   : C
+Problema    : https://judge.beecrowd.com/pt/problems/view/1030
+Data        : 09/06/2026
+Objetivo    : Derteminar quem seria o sobrevivente em uma roda com n números de pessoas.
+Aprendizado : A trabalhar com função recursiva.
+-------------------------------------------------------------------------- */
 #include<stdio.h>
 int josephus(int n, int k){
     int sobrevivente = 0;
