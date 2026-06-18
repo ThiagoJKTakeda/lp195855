@@ -1,3 +1,12 @@
+/* --------------------------------------------------------------------------
+Disciplina  : Lógica de Programação, turma IB, 2026S1
+Nome        : Thiago Jun Kimura Takeda
+Linguagem   : C
+Problema    : https://judge.beecrowd.com/pt/problems/view/1180
+Data        : 18/06/2026
+Objetivo    : Encontrar o menor valor de um vetor.
+Aprendizado : A trabalhar com vetores.
+-------------------------------------------------------------------------- */
 #include <stdio.h>
 
 int main(){
