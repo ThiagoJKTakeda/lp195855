@@ -1,3 +1,12 @@
+/* --------------------------------------------------------------------------
+Disciplina  : Lógica de Programação, turma IB, 2026S1
+Nome        : Thiago Jun Kimura Takeda
+Linguagem   : C
+Problema    : https://judge.beecrowd.com/pt/problems/view/2552
+Data        : 18/06/2026
+Objetivo    :Manipulção de matrizes com base na vizinhança dos números.
+Aprendizado : A trabalhar com matrizes.
+-------------------------------------------------------------------------- */
 #include <stdio.h>
 
 int main()
