@@ -1,3 +1,12 @@
+/* --------------------------------------------------------------------------
+Disciplina  : Lógica de Programação, turma IB, 2026S1
+Nome        : Thiago Jun Kimura Takeda
+Linguagem   : C
+Problema    : https://judge.beecrowd.com/pt/problems/view/1383
+Data        : 22/06/2026
+Objetivo    : COnferir se a resolução de um sudoku está correta.
+Aprendizado : A trabalhar com matriz.
+-------------------------------------------------------------------------- */
 #include <stdio.h>
 
 int valida_linhas(int sudoku[9][9]){
