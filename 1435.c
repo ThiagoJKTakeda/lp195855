@@ -5,7 +5,7 @@ Linguagem   : C
 Problema    : https://judge.beecrowd.com/pt/problems/view/1435
 Data        : 17/06/2026
 Objetivo    :Escrever matriz quadradas.
-Aprendizado : A trabalhar com f matriz.
+Aprendizado : A trabalhar com matriz.
 -------------------------------------------------------------------------- */
 #include <stdio.h>
 
