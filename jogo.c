@@ -1,3 +1,12 @@
+/* --------------------------------------------------------------------------
+Disciplina  : Lógica de Programação, turma IB, 2026S1
+Nome        : Thiago Jun Kimura Takeda
+Linguagem   : C
+Problema    : 
+Data        : 24/06/2026
+Objetivo    : Ler um arquivo de sudoku, uma pessoa resolver e dizer se está correto ou não.
+Aprendizado : A trabalhar com matriz.
+-------------------------------------------------------------------------- */
 #include <stdio.h>
 
 int valida_linhas(int sudoku[9][9]){
